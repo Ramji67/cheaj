@@ -1,6 +1,6 @@
 # config.py
 BOT_NAME = "Free bot"
-BOT_TOKEN = "6755775439:AAGkahjp3xK71u-jG6V0uQUR-xJgqLPt9yw"
-API_ID = 28328736
-API_HASH = "802254a44896baa87f3083b7af36b2e5"
+BOT_TOKEN = "7676127286:AAGA99obWbphTO9DNO3oNtWyIzM4BQ-e9rw"
+API_ID = 28088290
+API_HASH = "6998f2c585fdce65ac72dfa23d02b6ec"
 MONGO_URI = "mongodb+srv://mrnobody:modernhackers@mrnobody.q8e87ij.mongodb.net/?retryWrites=true&w=majority&appName=MrNobody"
